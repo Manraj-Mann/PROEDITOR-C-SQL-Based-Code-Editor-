@@ -1,0 +1,9 @@
+﻿  proeditor.cpp
+C:\Users\mann1\Desktop\Project\proeditor\proeditor\proeditor.cpp(103,48): warning C4244: 'argument': conversion from 'SQLLEN' to 'SQLUSMALLINT', possible loss of data
+C:\Users\mann1\Desktop\Project\proeditor\proeditor\proeditor.cpp(627,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  1 of 372 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  proeditor.vcxproj -> C:\Users\mann1\Desktop\Project\proeditor\x64\Release\proeditor.exe
