@@ -1,1 +1,1 @@
-# PROEDITOR-C-SQL-Based-Code-Editor-
+# PROEDITOR-CPP-SQL-Based-Code-Editor-
