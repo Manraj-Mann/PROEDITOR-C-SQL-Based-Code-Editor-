@@ -8,3 +8,4 @@ Features are :
 - Create a NEW File
 - Edit an EXISTING File from database
 - Delete an EXISTING File from database
+- Error Correction of Keywords
